@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+@section('title', 'Only Burgers - Registro')
+
 @section('content')
 
 <div class="container bg-light text-dark rounded p-2 col-12 col-sm-10 col-lg-6 mx-auto">
