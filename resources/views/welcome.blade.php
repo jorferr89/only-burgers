@@ -21,11 +21,11 @@
                 ¡Te esperamos!
             </p>
 
-            <p class="lead text-secondary mb-2">
+            <p class="lead text-secondary mb-2" style="font-weight: bold;">
                 HORARIO DE ATENCIÓN: de 19:00 a 01:00 hs.
             </p>
 
-            <p class="lead text-secondary mb-2">
+            <p class="lead text-secondary mb-2" style="font-weight: bold;">
                 DIRECCIÓN: Alvear 1041 - Apóstoles - Misiones
             </p>
         </div>
@@ -56,7 +56,7 @@
                 </div>
             @endguest
 
-            <img class="img-fluid mb-4" src="burger.jpg" style="max-width: 100%; height: 230px;">
+            <img class="img-fluid mb-4 p-2" src="burger.jpg" style="max-width: 100%; height: 230px;">
         </div>
     </div>
 </div>
